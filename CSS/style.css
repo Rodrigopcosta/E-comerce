@@ -301,6 +301,7 @@ main {
     display: flex;
     padding: 4rem 1rem;
     justify-content: space-evenly;
+    margin: 0.3rem;
 }
 
 .testimonials {
@@ -317,7 +318,7 @@ main {
     transition: all 0.2s;
 }
 
-.testimonials:hover {
+.testimonial:hover {
     transform: translateY(-5px);
 }
 
